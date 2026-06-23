@@ -66,3 +66,4 @@ Buka [http://localhost:3000](http://localhost:3000)
 - ✅ TypeScript strict mode
 - ✅ Animasi modal fade + slide up
 # gontree
+# gontree
